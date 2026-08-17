@@ -185,4 +185,4 @@ This project required understanding the difference between:
 ## 👤 Author
 
 **Jordan Knill**  
-Aspiring IT / Cybersecurity Professional  
+IT / Cybersecurity Professional  
